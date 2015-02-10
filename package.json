@@ -1,0 +1,20 @@
+{
+  "name": "ab-lightbox-svg",
+  "version": "0.0.1",
+  "description": "Minimal SVG-Based Lightbox",
+  "main": "index.js",
+  "keywords": [
+    "lightbox",
+    "svg"
+  ],
+  "license": "MIT",
+  "author": "Antonio Brandao <antoniobrandaodesign@gmail.com> (http://www.antoniobrandao.com/)",
+  "homepage": "https://github.com/antoniobrandao/ab-lightbox-svg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antoniobrandao/ab-lightbox-svg"
+  },
+  "bugs": {
+    "url": "https://github.com/antoniobrandao/ab-lightbox-svg/issues"
+  }
+}
